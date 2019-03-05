@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/Kentico/cloud-generators-java.svg?branch=master)](https://travis-ci.org/Kentico/cloud-generators-java)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SonarQube](http://img.shields.io/badge/SonarQube-Results-blue.svg)](https://sonarcloud.io/organizations/kentico-github/projects)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico-cloud)
 
 This utility generates strongly-typed models based on Content Types in a Kentico Cloud project. The models are supposed to be used together with the [Kentico Cloud Delivery SDK for Java](https://github.com/Kentico/delivery-sdk-java). Please read the [documentation](https://github.com/Kentico/delivery-sdk-java/wiki/Working-with-Strongly-Typed-Models-(aka-Code-First-Approach)#customizing-the-strong-type-binding-logic) to see all benefits of this approach.
 
