@@ -1,6 +1,7 @@
 # Kentico Cloud model generator utility for Java
 
 [![Build Status](https://travis-ci.com/Kentico/cloud-generators-java.svg?branch=master)](https://travis-ci.com/Kentico/cloud-generators-java)
+[![Gradle Plugin](https://img.shields.io/static/v1?label=gradle&message=1.1&color=%3CCOLOR%3E?style=flat&logo=gradle&labelColor=02303A)](https://plugins.gradle.org/plugin/com.kenticocloud.generator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SonarQube](http://img.shields.io/badge/SonarQube-Results-blue.svg)](https://sonarcloud.io/organizations/kentico-github/projects)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico-cloud)
