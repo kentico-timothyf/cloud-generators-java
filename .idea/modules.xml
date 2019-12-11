@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-generator-core/cloud-generator-core.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-generator-core/cloud-generator-core.iml" group="cloud-generator-core" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-generator-core/cloud-generator-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-generator-core/cloud-generator-core_main.iml" group="cloud-generator-core" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-generator-core/cloud-generator-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-generator-core/cloud-generator-core_test.iml" group="cloud-generator-core" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-generators-gradle/cloud-generators-gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-generators-gradle/cloud-generators-gradle.iml" group="cloud-generators-gradle" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-generators-gradle/cloud-generators-gradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-generators-gradle/cloud-generators-gradle_main.iml" group="cloud-generators-gradle" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud-generators-gradle/cloud-generators-gradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud-generators-gradle/cloud-generators-gradle_test.iml" group="cloud-generators-gradle" />
-      <module fileurl="file://$PROJECT_DIR$/cloud-generators-java.iml" filepath="$PROJECT_DIR$/cloud-generators-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kontent-generator-core/kontent-generator-core.iml" filepath="$PROJECT_DIR$/.idea/modules/kontent-generator-core/kontent-generator-core.iml" group="kontent-generators-java/kontent-generator-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kontent-generators-gradle/kontent-generators-gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/kontent-generators-gradle/kontent-generators-gradle.iml" group="kontent-generators-java/kontent-generators-gradle" />
+      <module fileurl="file://$PROJECT_DIR$/kontent-generators-java.iml" filepath="$PROJECT_DIR$/kontent-generators-java.iml" group="kontent-generators-java" />
     </modules>
   </component>
 </project>

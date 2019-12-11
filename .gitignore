@@ -43,3 +43,6 @@ hs_err_pid*
 .idea/dataSources/
 .idea/dictionaries/*
 .idea/shelf/
+bin/
+kontent-generator-core/build/
+kontent-generators-gradle/build/

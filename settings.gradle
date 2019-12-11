@@ -1,4 +1,4 @@
-rootProject.name = 'cloud-generators-java'
+rootProject.name = 'kontent-generators-java'
 
-include "cloud-generator-core"
-include "cloud-generators-gradle"
+include "kontent-generator-core"
+include "kontent-generators-gradle"
